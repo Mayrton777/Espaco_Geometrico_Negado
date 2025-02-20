@@ -34,7 +34,7 @@ Para rodar o projeto, primeiro, é necessário instalar as bibliotecas necessár
     ```
 4. Após instalar as dependências, execute o código com o comando:
     ```bash
-python setup.py
+    python setup.py
     ```
 ### 2. Instruções
 - Ao executar o setup, o sistema solicitará os arquivos de dados. Se você for um usuário iniciante, escolha a opção `0` para utilizar os arquivos padrão.
