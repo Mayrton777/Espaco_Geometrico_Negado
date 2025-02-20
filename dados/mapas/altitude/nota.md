@@ -1,0 +1,1 @@
+Para este projeto, foram utilizados dados de altitude do terreno nos arquivos `DF_Heights.tif` e `SE_Heights.tif`. Como esses arquivos ultrapassam o limite de 100 MB do GitHub, optou-se por não enviá-los. Caso deseje utilizar este projeto, você pode desconsiderar a altitude no código ou baixar dados de altitude disponíveis no site do governo (GOV).
