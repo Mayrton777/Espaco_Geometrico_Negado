@@ -1,4 +1,5 @@
-Sinal Interferência Ruído - SINR
+# ESPAÇO GEOMÉTRICO NEGADO
+
 ## Resumo do Projeto
 O projeto **Sinal Interferência Ruído - SINR** tem como objetivo calcular o sinal que chega a um ponto específico, considerando a interferência e o ruído provenientes de diferentes antenas de telecomunicação, e com isso determinar onde seria a borda da celula da antena transmissora, e, com isso, determinar a borda da célula da antena transmissora. Utilizando dados de antenas e de altitude do terreno, o código desenvolvido em Python calcula esses parâmetros e gera dois outputs principais:
 1. **Arquivo CSV**, contem os dados como:
