@@ -13,10 +13,12 @@ Para rodar o projeto, primeiro, é necessário instalar as bibliotecas necessár
    ```bash
    pip install -r requirements.txt
    ```
+4. Após instalar as dependências, copie o arquivo `config.template.ini` e renomeie para `config.ini`, mantendo os caminhos fornecidos.
+
 ### Executando o projeto
-1. Após instalar as dependências, execute o código com o comando:
+1. Execute o código com o comando:
    ```bash
-python setup.py
+   python setup.py
    ```
    Resultando na seguinte saida:
    ```text
